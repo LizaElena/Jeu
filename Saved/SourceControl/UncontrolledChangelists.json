@@ -8,7 +8,10 @@
 				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/HUD/W_MainMenu.uasset",
 				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/Map/House.umap"
+				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/Map/House.umap",
+				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/Map/world.umap",
+				"/Users/lizaelena/Documents/Unreal Projects/Le_Jeu/Content/world.umap"
 			]
 		}
 	]
